@@ -42,5 +42,11 @@
 
 - About Page: The page where all details about the art is posted by the art gallery staff.
 
+<h1>Default Admin Access:</h1>
+Username: admin </br>
+Password: admin123</br>
+
+<h3>The system is now ready for use!</h3>
+
 
 </div>
