@@ -35,7 +35,7 @@
 
 ---
 
-<h2>*Visitor/Customer Side*</h2>
+<h2>Visitor/Customer Side</h2>
 - Home Page: The page where all visitors will be redirected to by default upon opening the art gallery's website. All upcoming events list of the art gallery will be listed on this page.
 
 - Explore Page: The page where all artworks in the gallery are posted.
