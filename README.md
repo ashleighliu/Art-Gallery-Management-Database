@@ -1,11 +1,11 @@
-# Art-Gallery-Management-Database
+# Masterpiece-Manager
 ![image](https://user-images.githubusercontent.com/68800076/189507158-498d7857-7e2b-4a05-ad54-6333aaba8f61.png)
   <h1>
 ---
 :paintbrush: About:
     </h1>
       <div>
-  The Art Gallery Management Database is a website designed with PHP/MySQL. It's a simple project that will help art galleries to manage all art pieces in their inventory. <br />
+  The Masterpiece Manager is an art gallery management database website that is designed with PHP/MySQL. It's a simple project that will help art galleries to manage all art pieces in their inventory. <br />
   The system:<br />
    - keeps track and notifies users of upcoming events and advertisement from both artists and the art museum staff<br />
    - stores the information of each painting or sculpture including the artist who created the piece <br />
@@ -17,7 +17,7 @@
 
 <h1> :crayon: Features: </h1>
  <h2>Admin/Management Side </h2>
-- Login Page: The page where the system users will submit their system credentials to access and manage the data of the Art Gallery Management Database. 
+- Login Page: The page where the system users will submit their system credentials to access and manage the data of the art gallery database. 
     
 - Home Page: The page where the system user will be redirected by default after logging into the system.
 
