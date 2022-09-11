@@ -13,7 +13,8 @@
    - features a buyer request system, where the customer can place an order for a piece of artwork<br />
    - redirects the art piece buyer's information to the art gallery staff, for easy contact<br />
 --- 
-### Features: </br>
+
+<h1>Features: </h1>
  - Admin/Management Side </br>
  - Login Page </br>
    The page where the system users will submit their system credentials to access and manage the data of the Art Gallery Management System. </br>
