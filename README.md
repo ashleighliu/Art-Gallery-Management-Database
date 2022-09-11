@@ -11,6 +11,32 @@
    - includes also simple sale management system, which the art gallery staff may use to indicate which paintings are for sale <br />
    - features a buyer request system, where the customer can place an order for a piece of artwork<br />
    - redirects the art piece buyer's information to the art gallery staff, for easy contact<br />
-
+--- 
+### Features: </br>
+ - Admin/Management Side </br>
+ - Login Page </br>
+    -The page where the system users will submit their system credentials to access and manage the data of the Art Gallery Management System. </br>
+    
+Home Page
+The page where the system user will be redirected by default after logging into the system.
+Artist List
+The page where all the artists who created the artworks in the gallery are listed and managed.
+Arts
+The page in the system that lists all the artworks in the gallery and where can system users managed the information of the artworks.
+Events Page
+The page where all scheduled events of the gallery are listed and managed.
+For Sale Page
+The page where all artworks that are for sale in the art gallery are listed and managed.
+Orders Page
+The page where all order requests of customers are listed and managed.
+Users Page
+The page where can system users managed the list of users in the system.
+Visitor/Customer Side
+Home Page
+The page where the customers or visitors will be redirected by default when browsing the art gallery's website. This the where the upcoming events list of the art gallery is listed.
+Explore Page
+The page where all artworks in the art gallery are listed including the artworks that are for sale. This page displays the content of each artwork that the management published.
+About Page
+The page where the Art Gallery about content displays.
 
 </div>
