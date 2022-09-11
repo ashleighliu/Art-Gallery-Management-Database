@@ -18,26 +18,19 @@
  - Login Page </br>
    The page where the system users will submit their system credentials to access and manage the data of the Art Gallery Management System. </br>
     
-- Home Page
--  The page where the system user will be redirected by default after logging into the system.
+- Home Page: The page where the system user will be redirected by default after logging into the system.
 
--  Artist List
--  The page where all the artists who created the artworks in the gallery are listed and managed.
+-  Artist List: The page where all the artists who created the artworks in the gallery are listed and managed.
 
--  Art Pieces
--  The page in the system that lists all the artworks in the gallery and where can system users managed the information of the artworks.
+-  Art Pieces: The page in the system that lists all the artworks in the gallery and where can system users managed the information of the artworks.
 
--  Events Page
--  The page where all scheduled events of the gallery are listed and managed.
+-  Events Page: The page where all scheduled events of the gallery are listed and managed.
 
--  Sale Listings Page
--  The page where all artworks that are for sale in the art gallery are listed and managed.
+-  Sale Listings Page: The page where all artworks that are for sale in the art gallery are listed and managed.
 
--  Order Listings Page
--  The page where all order requests of customers are listed and managed.
+-  Order Listings Page: The page where all order requests of customers are listed and managed.
 
--  Users List
--  The page where can system users managed the list of users in the system.
+-  Users List: The page where can system users managed the list of users in the system.
 
 ---
 
