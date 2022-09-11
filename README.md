@@ -2,7 +2,7 @@
 ![image](https://user-images.githubusercontent.com/68800076/189507158-498d7857-7e2b-4a05-ad54-6333aaba8f61.png)
   <h1>
 ---
-About:
+:paintbrush: About:
     </h1>
       <div>
   The Art Gallery Management Database is a website designed with PHP/MySQL. It's a simple project that will help art galleries to manage all art pieces in their inventory. <br />
@@ -15,7 +15,7 @@ About:
 
 ---
 
-<h1>Features: </h1>
+<h1> :crayon: Features: </h1>
  <h2>Admin/Management Side </h2>
 - Login Page: The page where the system users will submit their system credentials to access and manage the data of the Art Gallery Management Database. 
     
@@ -35,7 +35,7 @@ About:
 
 ---
 
-<h2>Visitor/Customer Side</h2>
+<h2>:pencil2: Visitor/Customer Side</h2>
 - Home Page: The page where all visitors will be redirected to by default upon opening the art gallery's website. All upcoming events list of the art gallery will be listed on this page.
 
 - Explore Page: The page where all artworks in the gallery are posted.
