@@ -17,17 +17,17 @@
 
 <h1>Features: </h1>
  <h2>Admin/Management Side </h2>
- - Login Page: The page where the system users will submit their system credentials to access and manage the data of the Art Gallery Management System. 
+- Login Page: The page where the system users will submit their system credentials to access and manage the data of the Art Gallery Management Database. 
     
 - Home Page: The page where the system user will be redirected by default after logging into the system.
 
--  Artist List: The page where all the artists who created the artworks in the gallery are listed and managed.
+-  Artist List: The page where all creators of artworks are listed and managed.
 
--  Art Pieces: The page in the system that lists all the artworks in the gallery and where can system users managed the information of the artworks.
+-  Art Pieces: The page in the system that lists all the artworks in the gallery. All information is editable by system users.
 
--  Events Page: The page where all scheduled events of the gallery are listed and managed.
+-  Events Page: The page where all scheduled events of the gallery can be posted.
 
--  Sale Listings Page: The page where all artworks that are for sale in the art gallery are listed and managed.
+-  Sale Listings Page: The page where all artworks that are up for sale in the art gallery are listed and managed.
 
 -  Order Listings Page: The page where all order requests of customers are listed and managed.
 
@@ -35,12 +35,12 @@
 
 ---
 
-<h1>*Visitor/Customer Side*</h1>
-Home Page
-The page where the customers or visitors will be redirected by default when browsing the art gallery's website. This the where the upcoming events list of the art gallery is listed.
-Explore Page
-The page where all artworks in the art gallery are listed including the artworks that are for sale. This page displays the content of each artwork that the management published.
-About Page
-The page where the Art Gallery about content displays.
+<h2>*Visitor/Customer Side*</h2>
+- Home Page: The page where all visitors will be redirected to by default upon opening the art gallery's website. All upcoming events list of the art gallery will be listed on this page.
+
+- Explore Page: The page where all artworks in the gallery are posted.
+
+- About Page: The page where all details about the art is posted by the art gallery staff.
+
 
 </div>
