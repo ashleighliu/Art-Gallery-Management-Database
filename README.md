@@ -1,9 +1,9 @@
 # Art-Gallery-Management-Database
 ![image](https://user-images.githubusercontent.com/68800076/189507158-498d7857-7e2b-4a05-ad54-6333aaba8f61.png)
-<div>
   <h1>
 ### :woman_technologist: About:
     <\h1>
+      <div>
   The Art Gallery Management Database is a website designed with PHP/MySQL. It's a simple project that will help art galleries to manage all art pieces in their inventory. 
   The system:
    - keeps track and notifies users of upcoming events and advertisement from both artists and the art museum staff
