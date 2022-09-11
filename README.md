@@ -12,9 +12,10 @@
    - includes also simple sale management system, which the art gallery staff may use to indicate which paintings are for sale <br />
    - features a buyer request system, where the customer can place an order for a piece of artwork<br />
    - redirects the art piece buyer's information to the art gallery staff, for easy contact<br />
---- 
 
-<h1>Features: </h1>
+---
+
+<h1>*Features: *</h1>
  - Admin/Management Side </br>
  - Login Page </br>
    The page where the system users will submit their system credentials to access and manage the data of the Art Gallery Management System. </br>
@@ -35,7 +36,7 @@
 
 ---
 
-<h1>**Visitor/Customer Side**</h1>
+<h1>*Visitor/Customer Side*</h1>
 Home Page
 The page where the customers or visitors will be redirected by default when browsing the art gallery's website. This the where the upcoming events list of the art gallery is listed.
 Explore Page
