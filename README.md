@@ -15,23 +15,32 @@
 ### Features: </br>
  - Admin/Management Side </br>
  - Login Page </br>
-    -The page where the system users will submit their system credentials to access and manage the data of the Art Gallery Management System. </br>
+   The page where the system users will submit their system credentials to access and manage the data of the Art Gallery Management System. </br>
     
-Home Page
-The page where the system user will be redirected by default after logging into the system.
-Artist List
-The page where all the artists who created the artworks in the gallery are listed and managed.
-Arts
-The page in the system that lists all the artworks in the gallery and where can system users managed the information of the artworks.
-Events Page
-The page where all scheduled events of the gallery are listed and managed.
-For Sale Page
-The page where all artworks that are for sale in the art gallery are listed and managed.
-Orders Page
-The page where all order requests of customers are listed and managed.
-Users Page
-The page where can system users managed the list of users in the system.
-Visitor/Customer Side
+- Home Page
+-  The page where the system user will be redirected by default after logging into the system.
+
+-  Artist List
+-  The page where all the artists who created the artworks in the gallery are listed and managed.
+
+-  Art Pieces
+-  The page in the system that lists all the artworks in the gallery and where can system users managed the information of the artworks.
+
+-  Events Page
+-  The page where all scheduled events of the gallery are listed and managed.
+
+-  Sale Listings Page
+-  The page where all artworks that are for sale in the art gallery are listed and managed.
+
+-  Order Listings Page
+-  The page where all order requests of customers are listed and managed.
+
+-  Users List
+-  The page where can system users managed the list of users in the system.
+
+---
+
+<h1>**Visitor/Customer Side**</h1>
 Home Page
 The page where the customers or visitors will be redirected by default when browsing the art gallery's website. This the where the upcoming events list of the art gallery is listed.
 Explore Page
