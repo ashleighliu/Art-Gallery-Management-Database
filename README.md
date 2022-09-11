@@ -15,10 +15,9 @@
 
 ---
 
-<h1>*Features: *</h1>
- - Admin/Management Side </br>
- - Login Page </br>
-   The page where the system users will submit their system credentials to access and manage the data of the Art Gallery Management System. </br>
+<h1>Features: </h1>
+ <h2>Admin/Management Side </h2>
+ - Login Page: The page where the system users will submit their system credentials to access and manage the data of the Art Gallery Management System. 
     
 - Home Page: The page where the system user will be redirected by default after logging into the system.
 
